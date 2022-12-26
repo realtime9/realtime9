@@ -1,4 +1,4 @@
-<img width="350px" align="right" margin-right="300px" style="float:right" src="https://media.tenor.com/yQqmSBX8KdcAAAAC/evangelion-anime.gif" />
+<img width="350px" align="right" margin-right="300px" style="float:right" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 <div>
   <h2>👋 Hi</h2>
   <h3>A few quick things</h3>
