@@ -1,7 +1,7 @@
 <div>
   <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
-  <h2>👋Hi</h2>
-  <h3>⚡A few quick facts </h3>
+  <h2>👋 Hi</h2>
+  <h3>A few quick things</h3>
   <ul>
     <li>🔭 I’m currently working on a research paper with Polygence, Musikroots, and Google.</li>
     <li>💬 Ping me about Backend, Python (& most DS related libraries), R, Web Dev (quite a few JS libraries), Google APIs, Kubernetes, and Cloud stuff </li>
