@@ -23,7 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact&theme=dark)
-&nbsp;<div align="center">
+&nbsp;<div align="center", padding="50px">
   ![Visits](https://komarev.com/ghpvc/?username=realtime9&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 </div>
 
