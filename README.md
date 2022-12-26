@@ -1,5 +1,5 @@
+<img width="400px" align="right" style="float:right" src="https://media.tenor.com/yQqmSBX8KdcAAAAC/evangelion-anime.gif" />
 <div>
-  <img width="400px" align="right" style="float:right" src="https://media.tenor.com/yQqmSBX8KdcAAAAC/evangelion-anime.gif" />
   <h2>👋 Hi</h2>
   <h3>A few quick things</h3>
   <ul>
