@@ -1,5 +1,5 @@
 <div>
-  <img width="400px" align="right" src="https://tenor.com/en-GB/view/anime-explosion-archer-lancer-gif-10162501" />
+  <img width="400px" align="right" src="https://i.kym-cdn.com/entries/icons/original/000/018/012/this_is_fine.jpeg" />
   <h2>👋 Hi</h2>
   <h3>A few quick things</h3>
   <ul>
