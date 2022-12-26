@@ -8,7 +8,7 @@
     <li>👨‍💻 Currently learning Calculus 3, complex regressional-analytical statistics, and Vector Calculus.</li>
     <li>🥅 I hope to be able to make my own programming language soon!</li>
     <li>❤ Love watching anime
-    <li><a href="Realtime#2403" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.sv](https://www.flaticon.com/free-icon/discord_5968756?term=discord&page=1&position=1&origin=search&related_id=5968756)g" alt="" height="30" width="40" /></a>
+    <li><a href="your link" target="blank"><img align="center" src="(https://fontawesome.com/icons/discord?s=solid&f=brands)" alt="" height="30" width="40" /></a>
   </ul>
 </div>
 
