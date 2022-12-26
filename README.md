@@ -1,4 +1,4 @@
-<img width="350px" align="right" margin-right="350px" style="float:right" src="https://media.tenor.com/Mmz0dJudGtoAAAAC/explosion-anime.gif" />
+<img width="300px" align="right" margin-right="350px" style="float:right" src="https://media.tenor.com/Mmz0dJudGtoAAAAC/explosion-anime.gif" />
 <div>
   <h2>👋 Hi</h2>
   <h3>A few quick things</h3>
