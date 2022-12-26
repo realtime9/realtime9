@@ -5,7 +5,7 @@
   <ul>
     <li>🔭 I’m currently working on a research paper with Polygence, Musikroots, and Google.</li>
     <li>💬 Ping me about Backend, Python (& most DS related libraries), R, Web Dev (quite a few JS libraries), Google APIs, Kubernetes, and Cloud stuff </li>
-    <li>👨‍💻 Currently learning Calculus 3, complex regressional-analytical statistics, Vector Calculus, and Physics.</li>
+    <li>👨‍💻 Currently learning Calculus 3, complex regressional-analytical statistics, and Vector Calculus.</li>
     <li>🥅 I hope to be able to make my own programming language soon!</li>
     <li>❤ Love watching anime
   </ul>
