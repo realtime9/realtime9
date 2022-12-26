@@ -26,4 +26,4 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact)
