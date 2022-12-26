@@ -27,3 +27,4 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact&theme=dark)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=realtime9)]
