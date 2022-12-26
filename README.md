@@ -10,5 +10,5 @@
 
 </br>
 </br>
-! [GitHub Stats](https://github-readme-stats.vercel.app/api?username=realtime9&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact)](https://github.com/realtime9/realtime9/edit/main/README.md))]
 
