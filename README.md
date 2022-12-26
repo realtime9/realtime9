@@ -27,12 +27,11 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact&theme=dark)
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ansh \/)
 </div>
 
 &nbsp;<div align="center">
-  This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
-  https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
   [![Visits](https://komarev.com/ghpvc/?username=realtime9&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)]
 </div>
