@@ -1,4 +1,4 @@
-<img width="350px" align="right" margin-right="300px" style="float:right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+<img width="250px" align="right" margin-right="300px" style="float:right" src="https://tenor.com/en-GB/view/explosion-anime-gif-24705382" />
 <div>
   <h2>👋 Hi</h2>
   <h3>A few quick things</h3>
