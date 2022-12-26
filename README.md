@@ -11,7 +11,7 @@
 
 </br>
 </br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact&theme=dark)
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />] [https://admissions.umich.edu/explore-visit/contact-us]
@@ -26,4 +26,4 @@
 <br />
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact&theme=dark)
+
