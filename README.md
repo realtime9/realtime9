@@ -26,11 +26,6 @@
 <br />
 
 ---
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=realtime9&count=1)
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact&theme=dark)
 &nbsp;<div align="center">
   ![Visits](https://komarev.com/ghpvc/?username=realtime9&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
