@@ -10,5 +10,5 @@
 
 </br>
 </br>
-! [GitHub Stats] (https://github-readme-stats.vercel.app/api username =realtime9 &theme=radical)
+! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username =realtime9&theme=radical)
 
