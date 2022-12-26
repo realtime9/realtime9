@@ -1,5 +1,5 @@
 <div>
-  <img width="400px" align="right" src="[https://cdn.tomondre.com/this-is-fine.jpg](https://tenor.com/en-GB/view/anime-explosion-archer-lancer-gif-10162501)" />
+  <img width="400px" align="right" src="https://tenor.com/en-GB/view/anime-explosion-archer-lancer-gif-10162501" />
   <h2>👋 Hi</h2>
   <h3>A few quick things</h3>
   <ul>
