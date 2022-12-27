@@ -15,7 +15,6 @@
 ### Languages
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/Rlogo.png" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/512/c-programming.png" style="padding-right:10px;" />
