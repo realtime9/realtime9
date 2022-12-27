@@ -24,7 +24,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://www.r-project.org/Rlogo.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/512/c-programming.png" style="padding-right:10px;" />
-
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
 
 &nbsp;<div align="left">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact&theme=dark)
