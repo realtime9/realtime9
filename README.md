@@ -19,6 +19,7 @@
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/Rlogo.png" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/512/c-programming.png" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" style="padding-right:10px;" />
+<img align="left" alt="OpenAI" width="26px" src="https://openai.com/content/images/2022/05/openai-avatar.png" style="padding-right:10px;" />
 
 &nbsp;<div align="left">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtime9&layout=compact&theme=dark)
