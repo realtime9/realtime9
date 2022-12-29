@@ -1,6 +1,6 @@
 <img width="300px" align="right" style="float:right" src="https://media.tenor.com/Mmz0dJudGtoAAAAC/explosion-anime.gif" />
 <div>
-  <h2>👋 Hi</h2>
+  <h2>🌊Hi! A 17 y/o developer/research</h2>
   <h3>A few quick things</h3>
   <ul>
     <li>🔭 I’m currently working on a research paper with Polygence, Musikroots, and Google Cloud.</li>
